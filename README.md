@@ -31,9 +31,10 @@ The platform allows users to compare two MMA fighters and generate fight outcome
 ### Web Interface
 
 <p align="center">
-  <img src="images/web.png" alt="Octagon AI Web Interface" width="900">
+  <img src="images/web_interface.png" alt="Octagon AI Web Interface" width="700">
+  <br>
+  <em>Octagon AI web interface for fighter comparison and prediction generation.</em>
 </p>
-
 ## Dataset
 
 The dataset consists of professional MMA fighter statistics and historical UFC fight records.
