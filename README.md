@@ -307,10 +307,9 @@ Implementation:
 
 ## Future Work
 
-* Continuous expansion and updating of the dataset
-* Further development and optimization of the model to improve prediction accuracy and reliability
-* Gradual publication of project components, source code, and supporting resources as the platform continues to evolve
-
+* Continuous expansion and updating of the dataset with newly available UFC fight records
+* Retraining and further optimization of the model using updated datasets to improve prediction accuracy and reliability
+* Gradual publication of additional project components and supporting resources
 ---
 
 ## Author
