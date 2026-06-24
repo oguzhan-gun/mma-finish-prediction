@@ -1,0 +1,15 @@
+--- TRAIN SET ---
+              precision    recall  f1-score   support
+
+           0       0.67      0.78      0.72      4294
+           1       0.85      0.76      0.80      6960
+
+    accuracy                           0.77     11254
+   macro avg       0.76      0.77      0.76     11254
+weighted avg       0.78      0.77      0.77     11254
+
+Accuracy: 0.7695
+Precision: 0.8477
+Recall: 0.7647
+F1 Score: 0.8040
+ROC AUC: 0.8550

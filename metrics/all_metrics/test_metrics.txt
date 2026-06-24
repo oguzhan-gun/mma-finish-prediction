@@ -1,0 +1,15 @@
+--- TEST SET ---
+              precision    recall  f1-score   support
+
+           0       0.65      0.75      0.70       671
+           1       0.83      0.76      0.79      1088
+
+    accuracy                           0.75      1759
+   macro avg       0.74      0.75      0.74      1759
+weighted avg       0.76      0.75      0.76      1759
+
+Accuracy: 0.7533
+Precision: 0.8290
+Recall: 0.7574
+F1 Score: 0.7915
+ROC AUC: 0.8350

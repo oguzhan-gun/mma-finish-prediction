@@ -1,0 +1,15 @@
+--- VALIDATION SET ---
+              precision    recall  f1-score   support
+
+           0       0.64      0.74      0.69       537
+           1       0.83      0.74      0.78       870
+
+    accuracy                           0.74      1407
+   macro avg       0.73      0.74      0.74      1407
+weighted avg       0.76      0.74      0.75      1407
+
+Accuracy: 0.7448
+Precision: 0.8255
+Recall: 0.7448
+F1 Score: 0.7831
+ROC AUC: 0.8159
