@@ -16,9 +16,19 @@ Try the deployed web application:
 
 The platform allows users to compare two MMA fighters and generate fight outcome predictions using the ensemble machine learning system described in this repository.
 
+### Web Interface
+
+<p align="center">
+  <img src="images/web.png" alt="Octagon AI Web Interface" width="900">
+</p>
+
 ## Dataset
 
-The dataset consists of professional MMA fighter statistics collected from historical fight records.
+The dataset consists of professional MMA fighter statistics and historical UFC fight records.
+
+All available fighter and fight data were collected using web scraping techniques from publicly accessible MMA statistics databases. The dataset aims to include nearly all fighter statistics, fight records, and performance metrics available from these sources, providing extensive coverage of historical UFC data.
+
+The dataset is continuously expanded and updated to incorporate newly available UFC records and statistics.
 
 ### Features
 
@@ -298,15 +308,18 @@ Implementation:
 
 ## Future Work
 
-* Integration of deep learning architectures
-* Fighter style classification
-* Fight sequence analysis
-* Explainable AI using SHAP values
-* Real-time prediction platform
-* Multi-model ensemble expansion
+* Continuous expansion and updating of the dataset
+* Further development and optimization of the model to improve prediction accuracy and reliability
+* Gradual publication of project components, source code, and supporting resources as the platform continues to evolve
 
 ---
 
-## Disclaimer
+## Author
 
-This project was developed for research and educational purposes. Predictions are generated solely from historical fighter statistics and do not constitute betting or financial advice.
+Developed by Oğuzhan Gün.
+
+This project was created as an independent research initiative combining machine learning, data analytics, and sports prediction.
+
+The system is actively being improved through continuous dataset expansion, model optimization, and feature development. Additional project components, source code, and research findings will be published as development progresses.
+
+The goal of this project is to explore data-driven approaches for MMA fight prediction while providing an open and evolving platform for experimentation and research.
