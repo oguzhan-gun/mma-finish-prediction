@@ -16,6 +16,18 @@ Try the deployed web application:
 
 The platform allows users to compare two MMA fighters and generate fight outcome predictions using the ensemble machine learning system described in this repository.
 
+### Model Performance
+
+| Metric | Score |
+|---------|---------|
+| Accuracy | **76.46%** |
+| Precision | **79.88%** |
+| Recall | **82.81%** |
+| F1 Score | **81.32%** |
+| ROC-AUC | **82.30%** |
+
+---
+
 ### Web Interface
 
 <p align="center">
@@ -240,17 +252,6 @@ Implementation:
 
 `src/weighted_ensemble_predict.py`
 
-### Final Optimized Performance
-
-| Metric | Score |
-|---------|---------|
-| Accuracy | **76.46%** |
-| Precision | **79.88%** |
-| Recall | **82.81%** |
-| F1 Score | **81.32%** |
-| ROC-AUC | **82.30%** |
-
----
 
 ## Architecture
 
