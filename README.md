@@ -54,6 +54,7 @@ The dataset is continuously expanded and updated to incorporate newly available 
 * Submission Wins
 * Decision Wins
 * Win Rate
+* Title Fight Wins
 
 #### Streak Statistics
 
@@ -61,10 +62,6 @@ The dataset is continuously expanded and updated to incorporate newly available 
 * Current Losing Streak
 * Longest Win Streak
 * Longest Losing Streak
-
-#### Championship Performance
-
-* Title Fight Wins
 
 #### Striking Statistics
 
