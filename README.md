@@ -1,10 +1,15 @@
 # MMA Fight Prediction AI
 
+![Python](https://img.shields.io/badge/Python-3.x-blue)
+![XGBoost](https://img.shields.io/badge/Algorithm-XGBoost-blue)
+![Ensemble](https://img.shields.io/badge/Method-Weighted%20Ensemble-green)
+![Classification](https://img.shields.io/badge/Task-Binary%20Classification-red)
+
 ## Overview
 
-MMA Fight Prediction AI is a machine learning project developed to predict the outcome of professional MMA fights using historical fighter statistics and performance metrics.
+MMA Fight Prediction AI is a binary classification system developed to predict the winner of professional MMA fights using historical fighter statistics and performance metrics.
 
-The system utilizes multiple XGBoost models trained on different feature representations and combines their predictions through an ensemble-based optimization process. Additional feature weighting techniques are applied to maximize predictive performance.
+The system combines three independently trained XGBoost classifiers through a custom fighter-aware weighted ensemble optimized via brute-force search over thousands of weight configurations.
 
 ---
 
